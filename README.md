@@ -7,6 +7,13 @@ ejecutar <br>
 
 npm install y npm run dev
 
+en el .env agregar
+
+GOOGLE_DRIVE_CLIENT_ID=xxxxxxxxxxxxxxxxxxx <br>
+GOOGLE_DRIVE_CLIENT_SECRET=xxxxxxxxxxxxxxxxxxxx <br>
+GOOGLE_DRIVE_REFRESH_TOKEN=xxxxxxxxxxxxxxxx <br>
+GOOGLE_DRIVE_FOLDER=xxxxxxxxxxxxxxxxxx (nombre de la carpeta de drive) <br>
+
 <br>
 Tutorial en: https://www.rincondeproyectos.com/2023/01/laravel-8-google-drive.html
 
